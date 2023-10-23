@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Mithun Technologies Private Limited, Hyederabad, Inida ,Telangana.</h2>
-			<h3>Contact @ +91-9652229817,+91-9980923216</h3>
+			<h3>Contact @ +91-9652229817,+91-9652229817</h3>
 		</div>	
 	</div>
 
